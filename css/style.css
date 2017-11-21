@@ -1,6 +1,6 @@
 
  .navbar {    
-   background: black;  
+   background: #A9FFE5;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
@@ -25,7 +25,7 @@
  }   
 
  header {
-   background: gray;
+   background: #FFA9E6;
    color: white;
  }   
  header img {    
@@ -55,7 +55,7 @@
    font-size: 3em;   
  }   
  section.about {   
-   background: gray;    
+   background: #FDABE5;    
    color: white;   
  }   
      
